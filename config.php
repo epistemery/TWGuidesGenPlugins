@@ -27,6 +27,6 @@ $plugins["7"] = new PluginDefinition("7", "eucaly_quickjump.tid", "QuickJump", "
 $plugins["8"] = new PluginDefinition("8", "eucaly_popuptagger.tid", "PopupTagger", "http://eucaly-tw5.tiddlyspot.com/", "ui");  
 
 //ahahn
-$plugins["9"] = new PluginDefinition("9", "ahahn_hoverWidget.tid", "HoverWidget", "http://twguides.org/wiki/hover-widget.html", "widget");  
+$plugins["9"] = new PluginDefinition("9", "ahahn_hoverWidget.tid", "HoverWidget", "http://twguides.org/wiki/hover-widget.html", "widgets");  
 
 ?>
