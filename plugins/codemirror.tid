@@ -5,7 +5,7 @@ list: readme
 plugin-type: plugin
 title: $:/plugins/tiddlywiki/codemirror
 type: application/json
-version: 5.0.17-prerelease
+version: 5.1.0
 
 {
     "tiddlers": {
